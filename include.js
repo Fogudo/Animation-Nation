@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Speed Bars',
+    pageLink: './Art/Fogudo/index.html',
+    imageLink: './Art/Fogudo/speedbars.gif',
+    author: 'Fogudo',
+    githubLink: 'https://github.com/Fogudo'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
